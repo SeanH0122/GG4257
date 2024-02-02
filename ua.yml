@@ -1,0 +1,31 @@
+name: ua
+
+channels:
+  - conda-forge
+
+dependencies:
+  # Jupyter Lab
+  - jupyterlab
+  # GIS environment
+  - contextily
+  - folium
+  - geojson
+  - pandas
+  - geopandas
+  - geoplot
+  - geopy
+  - hvplot
+  - matplotlib
+  - mplleaflet
+  - openpyxl
+  - osmnx
+  - owslib
+  - pygeos
+  - pykrige
+  - pyrosm
+  - pysal
+  - rasterio
+  - rasterstats
+  - scipy
+  - seaborn
+  - xarray
